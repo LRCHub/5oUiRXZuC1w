@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "munina - 愛有線 feat. 初音ミク",
+  "base_artist": "munina",
+  "createdAt": "2025-12-30T02:07:39.451266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛有線",
+      "artist": "munina",
+      "has_synced": false,
+      "path": "select/pl_01_愛有線_munina.txt"
+    }
+  ]
+}
